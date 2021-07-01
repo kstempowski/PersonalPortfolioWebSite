@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: darkgray;
+}
+
+.bioPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px
+}
+
+.Corvette{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px
+}
+
+.Portfolio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
